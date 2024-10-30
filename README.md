@@ -7,9 +7,11 @@
 ![GitHub open pull requests](https://img.shields.io/github/issues-pr/lsm-5/imhere?style=for-the-badge)
 
 
-<img src="./assets/event.png" alt="evento" style="width:180px; height:auto;">
+<div style="display: flex; gap: 10px; margin-bottom: 10px;">
+    <img src="./assets/event.png" alt="evento" style="width:180px; height:auto;">
+    <img src="./assets/event-with-list.png" alt="evento com lista de pessoas" style="width:180px; height:auto;">
+</div>
 
-<img src="./assets/event-with-list.png" alt="evento com lista de pessoas" style="width:180px; height:auto;">
 
 > Projeto cujo o objetivo é fornecer uma lista de pessoas presente no evento, podendo adicionar ou remover pessoas da listagem.
 
