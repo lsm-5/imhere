@@ -36,11 +36,11 @@ export function Home() {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>
-        Nome do evento
+        REC'n'Play
       </Text>
 
       <Text style={styles.description}>
-        Sexta, 4 de novembro de 2022
+        Quarta, 6 de novembro de 2024
       </Text>
 
       <View style={styles.form}>
